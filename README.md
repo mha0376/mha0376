@@ -1,7 +1,10 @@
 
-<h1>Hi 👋, I'm Mohammad hosein Akrami</h1>
-<p>Machine Learning | Deep Learning | Computer Vision | AI Enthusiast</p>
+<div align="center"><h1>Hi 👋, I'm Mohammad hosein Akrami</h1></div>
+
 <p>I'm excited to explore the world of AI/ML. I'm a Python Developer with a strong interest in data analysis and building intelligent systems. I enjoy tackling challenging problems and learning new things every day.</p>
+
+###
+
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -40,5 +43,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mha0376&show_icons=true&locale=en" alt="mha0376" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mha0376&" alt="mha0376" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mha0376" alt="mha0376" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mha0376&show_icons=true&locale=en&layout=compact" alt="mha0376" /></p>
 </div>
