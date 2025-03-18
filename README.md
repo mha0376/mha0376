@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h1>Hi 👋, I'm Mohammad hosein Akrami</h1>
 <p>Machine Learning | Deep Learning | Computer Vision | AI Enthusiast</p>
@@ -43,11 +42,3 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mha0376" alt="mha0376" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mha0376&show_icons=true&locale=en&layout=compact" alt="mha0376" /></p>
 </div>
-
-
-###
-
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/mha0376" alt="Your GitHub Contributions" />
-</p>
