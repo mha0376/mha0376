@@ -1,8 +1,5 @@
 <br clear="both">
 
-
-
-
 <h1>Hi 👋, I'm Mohammad hosein Akrami</h1>
 <p>Machine Learning | Deep Learning | Computer Vision | AI Enthusiast</p>
 <p>I'm excited to explore the world of AI/ML. I'm a Python Developer with a strong interest in data analysis and building intelligent systems. I enjoy tackling challenging problems and learning new things every day.</p>
@@ -50,10 +47,7 @@
 
 ###
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mha0376/mha0376/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://ghchart.rshah.org/mha0376" alt="Your GitHub Contributions" />
+</p>
