@@ -2,7 +2,7 @@
 
 <div align="center"><h1>Hi 👋, I'm Mohammad Hosein Akrami</h1></div>
 
-<p>I'm excited to explore the world of AI/ML. I'm a Python Developer with a strong interest in data analysis and building intelligent systems. I enjoy tackling challenging problems and learning new things every day.</p>
+<p>I'm excited to explore the world of AI | ML | DL | Medical Imaging. I'm a Python Developer with a strong interest in data analysis and building intelligent systems. I enjoy tackling challenging problems and learning new things every day.</p>
 
 ###
 
