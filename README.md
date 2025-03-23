@@ -1,5 +1,6 @@
+<img src="https://github.com/user-attachments/assets/db86f5ef-0ecf-4054-8f72-b85b711dc3d4" />
 
-<div align="center"><h1>Hi 👋, I'm Mohammad hosein Akrami</h1></div>
+<div align="center"><h1>Hi 👋, I'm Mohammad Hosein Akrami</h1></div>
 
 <p>I'm excited to explore the world of AI/ML. I'm a Python Developer with a strong interest in data analysis and building intelligent systems. I enjoy tackling challenging problems and learning new things every day.</p>
 
