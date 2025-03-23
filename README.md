@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/db86f5ef-0ecf-4054-8f72-b85b711dc3d4" />
+<img src="https://github.com/user-attachments/assets/f5907056-f9fd-434b-a52e-f9e5db852f8b" />
 
 <div align="center"><h1>Hi 👋, I'm Mohammad Hosein Akrami</h1></div>
 
