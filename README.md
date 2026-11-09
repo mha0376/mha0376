@@ -2,7 +2,7 @@
 
 <div align="center"><h1>Hi 👋, I'm Mohammad Hosein Akrami</h1></div>
 
-<p>I'm excited to explore the world of AI | ML | DL | Medical Imaging. I'm a Python Developer with a strong interest in data analysis and building intelligent systems. I enjoy tackling challenging problems and learning new things every day.</p>
+<p>AI and Machine Learning Engineer with practical experience in developing machine learning and deep learning projects, particularly in computer vision and medical image analysis. Experienced in PyTorch, TensorFlow, transfer learning, model fine-tuning, image segmentation, object detection, and image classification. Interested in developing practical AI solutions and conducting research in deep learning and computer vision.</p>
 
 ###
 
